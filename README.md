@@ -1,4 +1,4 @@
-# ML-algorithms-Theory-and-Implementation
+# MLand Deep Learning Algorithms Implementation in Python
 The topic-wise theoritical concept of ML Algorithms & Their Implementation in Python
 # Types of Machine Learning Algorithms
 #  1. Supervised Machine Learning
